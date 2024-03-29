@@ -1,0 +1,3 @@
+higlightSameDigit,1
+higlightAnswer,1
+incorrectAnswer,1
